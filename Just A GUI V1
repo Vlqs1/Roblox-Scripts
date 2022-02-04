@@ -73,7 +73,7 @@ BP.TextScaled = true
 BP.TextSize = 14.000
 BP.TextWrapped = true
 BP.MouseButton1Down:connect(function() 
-	loadstring(game:HttpGet('https://pastebin.com/raw/MLPypHYv', true))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/MbeQAGaS"))()
 end)
 
 DarkHub.Name = "DarkHub"
