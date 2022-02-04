@@ -73,7 +73,7 @@ BP.TextScaled = true
 BP.TextSize = 14.000
 BP.TextWrapped = true
 BP.MouseButton1Down:connect(function() 
-	loadstring(game:HttpGet('https://pastebin.com/raw/MbeQAGaS', true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/1iseo/breaking-point-public/main/main.lua", true))()
 end)
 
 DarkHub.Name = "DarkHub"
