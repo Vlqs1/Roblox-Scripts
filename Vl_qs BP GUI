@@ -15,7 +15,7 @@ c:Button("Inf Yield (Bans)",function()
 end)
 
 c:Button("Trade Unban (Bans)", function()
-    loadstring(game:HttpGet("https://pastebin.com/JYx63EZB"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/exxtremestuffs/SimpleSpySource/master/SimpleSpy.lua"))()
 end)
 
 c:Button("Fullbright", function()
