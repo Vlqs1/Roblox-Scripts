@@ -15,7 +15,7 @@ c:Button("Inf Yield (Bans)",function()
 end)
 
 c:Button("Trade Unban (Bans)", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/G9kvLQTq"))()
+    loadstring(game:HttpGet("https://pastebin.com/JYx63EZB"))()
 end)
 
 c:Button("Fullbright", function()
@@ -39,6 +39,9 @@ end)
 b:Button("Hitbox Expander", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/g1GXbfvP"))()
 end)
-    
+
+b:Button("Vl_qs DUPE Gui", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vlqs1/Roblox-Scripts/master/Dupe%20GUI.lua", true))()
+end)    
 
     
