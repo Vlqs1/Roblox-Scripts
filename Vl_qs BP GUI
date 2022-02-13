@@ -14,6 +14,10 @@ c:Button("Inf Yield",function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 end)
 
+c:Button("Untrade ban", function()
+    loadstring(game:HttpGet("https://pastebin.com/JYx63EZB"))()
+end)
+
 c:DestroyGui()
 
 b:Button("Credit Script",function()
@@ -22,4 +26,8 @@ end)
 
 b:Button("BP GUI (1iseo)",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/1iseo/breaking-point-public/main/main.lua"))()
+end)
+
+b:Button("Hitbox Expander", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/g1GXbfvP"))()
 end)
