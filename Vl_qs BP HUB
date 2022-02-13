@@ -37,7 +37,7 @@ b:Button("BP GUI (1iseo)",function()
 end)
 
 b:Button("Hitbox Expander", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/g1GXbfvP"))()
+    loadstring(game:HttpGet("https://controlc.com/1422e3a5"))()
 end)
 
 b:Button("Vl_qs DUPE Gui", function()
