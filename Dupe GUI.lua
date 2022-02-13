@@ -11,7 +11,7 @@ local Antlers = Instance.new("TextButton")
 local RoyalRed = Instance.new("TextButton")
 
 
-ScreenGui.Parent = game.Workspace
+ScreenGui.Parent = game.CoreGui
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 main.Name = "main"
