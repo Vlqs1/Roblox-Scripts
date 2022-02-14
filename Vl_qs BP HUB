@@ -25,7 +25,11 @@ end)
 c:Button("Headless", function()    
     loadstring(game:HttpGet("https://pastebin.com/raw/39Wn6Eq1"))()
 end)
-    
+
+c:Button("Anti-AFK (KitieJolie)", function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/KitieJolie/Scripts/main/Anti-AFK"))()
+end)
+
 c:DestroyGui()
 
 b:Button("Credit Script",function()
