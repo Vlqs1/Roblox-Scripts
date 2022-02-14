@@ -32,8 +32,12 @@ b:Button("Credit Script",function()
   loadstring(game:HttpGet('https://pastebin.com/raw/VTAc9qau'))()
 end)
 
-b:Button("BP GUI (1iseo)",function()
+b:Button("Semi GUI (1iseo)",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/1iseo/breaking-point-public/main/main.lua"))()
+end)
+
+b:Button("BP GUI", function()
+  loadstring(game:GetObjects("rbxassetid://7228968882")[1].Source)()
 end)
 
 b:Button("Hitbox Expander", function()
