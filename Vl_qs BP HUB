@@ -22,7 +22,7 @@ c:Button("Fullbright", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/06iG6YkU"))()
 end)
 
-c:Button("Headless", function()    
+c:Button("Headless GUI", function()    
     loadstring(game:HttpGet("https://pastebin.com/raw/CmjcveQf"))()
 end)
     
