@@ -48,6 +48,10 @@ b:Button("Hitbox Expander", function()
     loadstring(game:HttpGet("https://paste-bin.xyz/raw/37845"))()
 end)
 
+b:Button("Outlaw's Hub", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/MostafaXc00dy/MostafaXc00dy/main/OutlawsHub/Free/V6.lua"))()
+end)
+
 b:Button("Vl_qs DUPE Gui", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vlqs1/Roblox-Scripts/master/Dupe%20GUI.lua", true))()
 end)   
